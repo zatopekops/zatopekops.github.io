@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: zatopekops/zatopekops.github.io
+  branch: main
+  # base_url: https://<votre-relais-oauth>   # à renseigner (voir README) pour l'auth GitHub Pages
+
+# Langue de l'interface
+locale: fr
+
+media_folder: "static/uploads"   # médias génériques (hors articles)
+public_folder: "/uploads"
+
+collections:
+  - name: articles
+    label: "Articles"
+    label_singular: "Article"
+    folder: "content/articles"
+    path: "{{slug}}/index"        # page bundle : <slug>/index.md
+    media_folder: ""              # images stockées dans le dossier de l'article
+    public_folder: ""            # référencées en relatif (compatible Hugo bundle)
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    editor:
+      preview: true
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Brouillon", name: "draft", widget: "boolean", default: true }
+      - { label: "Résumé", name: "summary", widget: "text", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Catégories", name: "categories", widget: "list", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }

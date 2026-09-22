@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mon Lab DevOps</title>
+    <link>https://zatopekops.github.io/</link>
+    <description>Recent content on Mon Lab DevOps</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <atom:link href="https://zatopekops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://zatopekops.github.io/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zatopekops.github.io/a-propos/</guid>
+      <description>&lt;h2 id=&#34;qui-suis-je-&#34;&gt;Qui suis-je ?&lt;/h2&gt;
+&lt;p&gt;Passionné d&amp;rsquo;infrastructure et d&amp;rsquo;automatisation, je me forme aux pratiques
+&lt;strong&gt;DevOps&lt;/strong&gt; et &lt;strong&gt;SRE&lt;/strong&gt;. Ce site me sert de carnet de bord : j&amp;rsquo;y documente
+mes labs, mes réalisations et ce que j&amp;rsquo;apprends en chemin.&lt;/p&gt;
+&lt;h2 id=&#34;mon-lab&#34;&gt;Mon lab&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🖥️ &lt;strong&gt;Hyperviseur&lt;/strong&gt; : Proxmox VE&lt;/li&gt;
+&lt;li&gt;☸️ &lt;strong&gt;Orchestration&lt;/strong&gt; : Kubernetes&lt;/li&gt;
+&lt;li&gt;🤖 &lt;strong&gt;Automatisation&lt;/strong&gt; : Ansible, Terraform&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;CI/CD&lt;/strong&gt; : GitHub Actions&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Observabilité&lt;/strong&gt; : Prometheus, Grafana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;compétences-en-cours-dacquisition&#34;&gt;Compétences en cours d&amp;rsquo;acquisition&lt;/h2&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Domaine&lt;/th&gt;
+					&lt;th&gt;Outils&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Infrastructure as Code&lt;/td&gt;
+					&lt;td&gt;Terraform, Ansible&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Conteneurs &amp;amp; orchestration&lt;/td&gt;
+					&lt;td&gt;Docker, Kubernetes&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Virtualisation&lt;/td&gt;
+					&lt;td&gt;Proxmox VE&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;CI/CD&lt;/td&gt;
+					&lt;td&gt;GitHub Actions, GitLab CI&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Supervision&lt;/td&gt;
+					&lt;td&gt;Prometheus, Grafana, Loki&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;me-contacter&#34;&gt;Me contacter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub : &lt;a href=&#34;https://github.com/zatopekops&#34;&gt;@zatopekops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn : &lt;a href=&#34;https://www.linkedin.com/in/VOTRE-PROFIL/&#34;&gt;Votre profil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
